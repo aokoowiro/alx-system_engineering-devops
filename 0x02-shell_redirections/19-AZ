@@ -1,2 +1,2 @@
 #!/bin/bash
-echo FD0 | tr Ac Ze
+tr"Ac" "Ze"
