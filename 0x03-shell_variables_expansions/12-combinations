@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z}| awk '{print $1}' 
+echo {a..z}{a..z} 
